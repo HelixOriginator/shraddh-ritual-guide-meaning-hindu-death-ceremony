@@ -1,0 +1,12 @@
+# robots.txt for Shraddh Ritual Guide
+# https://helixoriginator.github.io/shraddh-ritual-guide-meaning-hindu-death-ceremony/
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://helixoriginator.github.io/shraddh-ritual-guide-meaning-hindu-death-ceremony/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 10
