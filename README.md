@@ -10,8 +10,6 @@ A comprehensive, modern guide to Shraddh (Hindu death rituals) that explains the
 
 When a parent passes away, families are asked to perform various rituals—pouring water, offering rice balls, making donations, shaving heads. But rarely does anyone explain what these actions actually mean. This guide fills that gap.
 
-**Live Demo:** [View the Guide](https://your-username.github.io/shraddh-ritual-guide/)
-
 ## ✨ Features
 
 - **Comprehensive Ritual Explanations**: Detailed breakdown of all 10 major Shraddh rituals
